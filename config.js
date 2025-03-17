@@ -1,4 +1,4 @@
-// config.js
+// config.js conigurado correctamente
 
 // Esperamos a que el documento esté completamente cargado
 document.addEventListener('DOMContentLoaded', function() {
